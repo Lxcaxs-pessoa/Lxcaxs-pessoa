@@ -1,4 +1,4 @@
-### Olá me chamo Lucas Pessoa
+### Olá me chamo Lucas Pessoa 👋
 
 👨‍💻 Sou desenvolvedor de software Back-End/Fullstack
 
